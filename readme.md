@@ -1,13 +1,13 @@
 # Book Translator 
 
-Simple Python script to translate large `.txt` books or documents into any language using Google Translate (via the `deep_translator` library). Handles long files by splitting them into safe 4500-character chunks.
+Simple Python script to translate large `.txt` books or documents into any language using Google Translate (via the `deep_translator` library). Handles long files by splitting them into safe 4500-character chunks. 
 
 ---
 
 ## Overview
 
 - Takes any `.txt` file, translates it to the target language.
-- Outputs full translated text to `book_translated.txt`
+- Outputs translated text to `book_translated.txt`
 - Tweak and reuse as needed
 
 ---

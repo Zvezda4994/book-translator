@@ -21,7 +21,7 @@ Simple Python script to translate large `.txt` books or documents into any langu
     input_file to your .txt file path
     targetlangcode to your desired language (eg: en, fr, hi)
 3.  Run script
-4.  ```bash
+     ```bash
     python translate.py
 
 ## Possible troubleshooting

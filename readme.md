@@ -21,10 +21,12 @@ Simple Python script to translate large `.txt` books or documents into any langu
     input_file to your .txt file path
     targetlangcode to your desired language (eg: en, fr, hi)
 3.  Run script
-    'python translate.py'
+4.  ```bash
+    python translate.py
 
 ## Possible troubleshooting
 1. If after installing deep-translator it doesn't work in your IDE (eg: module not found, inexplicable path error):
     Open CMD and run it manually
+   ```bash
     "[Python interpreter path]" "[Path to where script is stored]"
-2. In doing so the file may be saved in the same folder as where your interpreter is (eg: C:/Windows/system32/book_translated.txt)
+3. In doing so the file may be saved in the same folder as where your interpreter is (eg: C:/Windows/system32/book_translated.txt)
